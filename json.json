@@ -1,0 +1,26 @@
+[
+    {
+        "fecha_inicio": "2022-01-01",
+        "fecha_final": "2023-01-01",
+        "pais": "Colombia",
+        "contagios": 200,
+        "muertes": 10,
+        "pruebas": 1000
+    },
+    {
+        "fecha_inicio": "2022-01-01",
+        "fecha_final": "2023-01-01",
+        "pais": "Venezuela",
+        "contagios": 150,
+        "muertes": 5,
+        "pruebas": 900
+    },
+    {
+        "fecha_inicio": "2022-01-01",
+        "fecha_final": "2023-01-01",
+        "pais": "Maracaibocity",
+        "contagios": 180,
+        "muertes": 8,
+        "pruebas": 1100
+    }
+]
